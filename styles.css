@@ -8,6 +8,10 @@ body {
    font-family: sans-serif;
 }
 
+.established {
+  font-style: italic;
+}
+
 .menu {
   width: 80%;
   max-width: 500px;
